@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=halim-riabi" alt="halim-riabi" /></a> </p>
 
-- 🔭 I’m currently working on [A travel management app](https://github.com/ChaimaDkhilDkhil/FlyWareApp/tree/Riabi-Halim)
+- 🔭 I’m currently working on [A Travel Management App](https://github.com/ChaimaDkhilDkhil/FlyWareApp/tree/Riabi-Halim)
 
 - 🌱 I’m currently learning **MEAN Stack**
 
