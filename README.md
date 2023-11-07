@@ -14,12 +14,11 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Halim-Riabi](https://github.com/Halim-Riabi)
 
 - 💬 Ask me about **Kotlin, VueJs and Spring Boot**
-
+<h3 align="left">Connect with me:</h3>
 - 📫 How to reach me **halimriabi001@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/halim riabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="halim riabi" height="30" width="40" /></a>
+<p align="left"> - Here's my LinkedIn profile :
+<a href="https://linkedin.com/in/halim riabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="halim riabi" height="20" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
